@@ -1,0 +1,14 @@
+{
+  "name": "node-js-asignment",
+  "version": "1.0.0",
+  "description": "node-js assiment-github",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ram",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
